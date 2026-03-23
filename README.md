@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="50%">
 
 ## 🧠 About Me
 
@@ -22,7 +22,7 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="80%" align="center">
 
 <img src="SWAPPY THE SHOOTER.gif" height="1200"/>
 
