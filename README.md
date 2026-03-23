@@ -106,6 +106,6 @@ Full stack app with posts, messaging, and notifications.
 
 ### "Turning data into decisions"
 
-<img src="https://media.giphy.com/media/17ytUBJ7boX5FHXmhg/giphy.gif" width="400"/>
+<img src=swappy shooter 2.gif" height="900"/>
 
 </div>
