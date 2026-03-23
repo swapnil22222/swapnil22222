@@ -4,11 +4,13 @@
 
 ### Data Scientist • Data Analyst • Machine Learning • Blockchain
 
-<img src="SWAPPY THE SHOOTER.gif"  height="1200"/>
-
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🧠 About Me
 
@@ -17,6 +19,16 @@
 * ⛓️ Exploring Blockchain + Smart Contracts
 * 🚀 Building real-world data & fintech projects
 * 🎓 B.E. CSE — Chitkara University
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="SWAPPY THE SHOOTER.gif" height="1200"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
