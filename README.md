@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚫ Swapnil Dwivedi ⚪
+# 🍷 Swapnil Dwivedi 🍷
 
 ### Data Scientist • Data Analyst • Machine Learning • Blockchain
 
@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="70%">
 
 ## 🧠 About Me
 
