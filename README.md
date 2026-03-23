@@ -4,7 +4,7 @@
 
 ### Data Scientist • Data Analyst • Machine Learning • Blockchain
 
-<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="600"/>
+<img src="SWAPPY THE SHOOTER" width="600"/>
 
 </div>
 
