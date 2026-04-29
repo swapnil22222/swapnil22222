@@ -2,7 +2,7 @@
 
 # 🍷 Swapnil Dwivedi 🍷
 
-### Data Scientist • Data Analyst • Machine Learning • Blockchain
+### Data Scientist • Data Analyst • Machine Learning • Blockchain • FullStack
 
 </div>
 
